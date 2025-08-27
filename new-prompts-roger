@@ -1,0 +1,19 @@
+# Power Platform GPT Prompts
+
+## New Prompts Added
+
+### 1. Generate a Power Automate Flow for Approvals
+**Description:**  
+Create a Power Automate flow that sends an approval request to a manager when a new item is added to a SharePoint list. If approved, update the item status to "Approved"; if rejected, set it to "Rejected".
+
+---
+
+### 2. Build a Power Apps Canvas App for Expense Tracking
+**Description:**  
+Design a Power Apps Canvas App that allows employees to submit expense reports, upload receipts, and track approval status. Include a dashboard for managers to review and approve expenses.
+
+---
+
+### 3. Create a Copilot Prompt for Summarizing Teams Meeting Notes
+**Description:**  
+Generate a prompt for Copilot that summarizes Microsoft Teams meeting transcripts into key action items, decisions, and deadlines. The summary should be concise and formatted as bullet points for easy sharing.
